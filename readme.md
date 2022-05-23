@@ -53,7 +53,7 @@ Exemplo de funcionalidades disponibilizadas para criação de painel.
 Exemplos de paineis criados com [análises rápidas](https://github.com/rosacarla/PowerBI-formacao-basica/blob/main/docs/Insights%20Pedidos%20-%20Power%20BI.pdf) ou [insights automáticos](https://github.com/rosacarla/PowerBI-formacao-basica/blob/main/docs/Power%20BI-insights.pdf) do Power BI.  
 
 ☑️ **Faça perguntas aos seus dados**  
-Funcionalidade baseada na tecnologia chamada "linguagem natural", conhecida pela sigla "PNL". Com ela, podem ser feitas perguntas sobre seus dados através de uma frase. Exemplo de Utilização do [P&R](https://github.com/rosacarla/PowerBI-formacao-basica/blob/main/images/perguntas-painel.jpg).  
+Funcionalidade baseada na tecnologia chamada "linguagem natural", conhecida pela sigla "PNL". Com ela, podem ser feitas perguntas sobre seus dados através de uma frase. Exemplo de utilização do [P&R](https://github.com/rosacarla/PowerBI-formacao-basica/blob/main/images/perguntas-painel.jpg).  
 
 ☑️ **Compartilhe os dados com colegas**  
 Exemplos de compartilhamento de:  
@@ -69,7 +69,7 @@ Exemplo de edição da visualização de painel com layout para celular.
 
 ☑️ **Conclusão**  
 Próximos passos: cursos sugeridos para continuar estudos no LinkedIn Learning 
-- Fundamento da Análise de Dados  
+- Fundamentos da Análise de Dados  
 - Descubra o Power BI (focado no Power BI Desktop)  
 - Power BI: Avançado 
 
