@@ -1,4 +1,4 @@
-# Power BI: Formação Básica
+# 📊 Power BI: Formação Básica
 
 Este repositório contém material utilizado e produzido em atividades práticas durante o curso online
 _Power BI Formação Básica_, realizado na plataforma LinkedIn Learning.    
