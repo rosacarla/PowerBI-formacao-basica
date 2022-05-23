@@ -1,13 +1,12 @@
-# POWER BI FORMAÇÃO BÁSICA  
+# Power BI: Formação Básica
 
-Este repositório contém material utilizado e produzido durante o curso 
-_PowerBI Formação Básica_, realizado na plataforma LinkedIn Learning.  
-  
+Este repositório contém material utilizado e produzido em atividades práticas durante o curso online
+_Power BI Formação Básica_, realizado na plataforma LinkedIn Learning.    
 
-# **CONTEÚDOS DO CURSO:**
+#### 📑 **CONTEÚDOS DO CURSO:**
 
-Introdução  
-: [engrenagem] Requisitos Técnicos  
+☑️ **Introdução**  
+Necessário preparar equipamento para atender os seguintes requisitos técnicos:  
 - Memória RAM: 1,5 GB ou superior (8 GB mínimo)  
 - CPU (porcessador): 1 GHz ou superior (x64 ou x32-bit)  
 - Resolução: 1400x900px ou 1600x900px  
@@ -18,87 +17,77 @@ Introdução
 - Power BI Pro ou Power BI gratuito
 - Power BI Desktop  
 
-1. Como começar no Power BI  
-</br>   
+☑️ **Como começar no Power BI**  
 <p align="center">
-	<img src="imag conceito-bi" width="500">
-</p>
-Componentes do Power BI: Power BI Serviço (app.powerbi.com), Power BI Desktop, Power BI AppSource (Novos Visuais), Power BI para celulares, Power BI Gateway, Power BI Embedded, Power BI Servidor de Relatórios  
-
-Para criar uma conta no Power BI: https://powerbi.microsoft.com/  
-Navegação pelo Power BI Serviço: https://app.powerbi.com/  
-
-2. Obtendo dados no Power BI Serviço  
-
-Importação de arquivo [CSV]().
-Importação de arquivo de [Excel]().
-
-3. Usando o Power BI Desktop  
-
-Criação manual de relacionamento entre tabelas  
-</br>   
-<p align="center">
-	<img src="video tab" width="500">
+	<img src="https://github.com/rosacarla/PowerBI-formacao-basica/blob/main/images/conceito-bi.jpg" width="500">
 </p>
 
-4. Criando visuais em relatórios  
+- Componentes do Power BI: Power BI Serviço (app.powerbi.com), Power BI Desktop, Power BI AppSource (Novos Visuais), Power BI para celulares, Power BI Gateway, Power BI Embedded, Power BI Servidor de Relatórios.  
+- Para criar uma conta no Power BI: https://powerbi.microsoft.com/  
+- Navegação pelo Power BI Serviço: https://app.powerbi.com/  
 
-Visualização de novo relatório em modo leitura  
-</br>   
+☑️ **Obtendo dados no Power BI Serviço**  
+Exemplos de importações de arquivos [CSV](https://github.com/rosacarla/PowerBI-formacao-basica/blob/main/images/importar-csv.jpg) e [Excel](https://github.com/rosacarla/PowerBI-formacao-basica/blob/main/images/importar-excel.jpg).  
+
+☑️ **Usando o Power BI Desktop**  
+Exemplo de criação manual de relacionamento entre tabelas.  
 <p align="center">
-	<img src="video leitura" width="500">
+	<img src="https://github.com/rosacarla/PowerBI-formacao-basica/blob/main/images/Relacoes-entre-tabelas-BI.gif" width="750">
 </p>
 
-5. Modificar e imprimir um relatório
-
-Relatórios exportados para [PowerPoint]() ou [PDF]().  
-
-6. Criando um painel  
-</br>   
+☑️ **Criando visuais em relatórios**  
+Exemplo de visualização de novo relatório em modo leitura.  
 <p align="center">
-	<img src="imagem de painel-inicio" width="500">
+	<img src="https://github.com/rosacarla/PowerBI-formacao-basica/blob/main/images/Leitura-relatorio-BI.gif" width="750">
 </p>
 
-Criação de painel com análises rápidas ou [insights automáticos]() do Power BI.  
+☑️ **Modificar e imprimir um relatório**  
+Exemplos de relatórios exportados para [PowerPoint](https://github.com/rosacarla/PowerBI-formacao-basica/blob/main/docs/Vendas%20Final-ppt.pptx) e [PDF](https://github.com/rosacarla/PowerBI-formacao-basica/blob/main/docs/Vendas%20Final.pdf).  
 
-
-7. Faça perguntas aos seus dados  
-Funcionalidade baseada na tecnologia chamada "linguagem natural", conhecida pela sigla "PNL". Com ela, podem ser feitas perguntas sobre seus dados através de uma frase. Exemplo de Utilização do [P&R]().  
-
-8. Compartilhe os dados com colegas
-
-Compartilhamento de relatório com [link na web](https://screencast-o-matic.com/watch/c3h0VtVrkTr).
-Compartilhamento de painel por [e-mail](vendas resumidas).
-Compartilhamento de um visual por [QR Code](vendas final qrcode).  
-
-9. Usando Power BI para celulares
-
-Visualização de painel com layout para celular  
-</br>   
+☑️ **Criando um painel**  
+Exemplo de funcionalidades disponibilizadas para criação de painel.  
 <p align="center">
-	<img src="video cel" width="750">
+	<img src="https://github.com/rosacarla/PowerBI-formacao-basica/blob/main/images/painel-inicio.jpg" width="750">
 </p>
 
-Conclusão  
-Próximos passos: cursos sugeridos para continuar estudos  
+Exemplo de painel criado com análises rápidas ou [insights automáticos](https://github.com/rosacarla/PowerBI-formacao-basica/blob/main/docs/Power%20BI-insights.pdf) do Power BI.  
+
+☑️ **Faça perguntas aos seus dados**  
+Funcionalidade baseada na tecnologia chamada "linguagem natural", conhecida pela sigla "PNL". Com ela, podem ser feitas perguntas sobre seus dados através de uma frase. Exemplo de Utilização do [P&R](https://github.com/rosacarla/PowerBI-formacao-basica/blob/main/images/perguntas-painel.jpg).  
+
+☑️ **Compartilhe os dados com colegas**  
+Exemplos de compartilhamento de:  
+- relatório com [link na web](https://screencast-o-matic.com/watch/c3h0VtVrkTr).  
+- painel por [e-mail](https://github.com/rosacarla/PowerBI-formacao-basica/blob/main/images/email-vendas-resumidas.jpg).  
+- visual por [QR Code](https://github.com/rosacarla/PowerBI-formacao-basica/blob/main/images/Vendas%20Final-qrcode.jpg) para visualizar com câmera de celular.
+
+☑️ **Usando Power BI para celulares**  
+Exemplo de edição da visualização de painel com layout para celular.  
+<p align="center">
+	<img src="https://github.com/rosacarla/PowerBI-formacao-basica/blob/main/images/Painel_com_layout_para_celular.gif" width="750">
+</p>
+
+☑️ **Conclusão**  
+Próximos passos: cursos sugeridos para continuar estudos no LinkedIn Learning 
 - Fundamento da Análise de Dados  
 - Descubra o Power BI (focado no Power BI Desktop)  
 - Power BI: Avançado 
 
 ---
 
-## 💻 AUTORA  
+#### ✍️ AUTORA  
 Carla Edila Silveira  
 Contato: rosa.carla@pucpr.edu.br  
 
 ---
 
-## ©️ LICENÇA
+#### ©️ LICENÇA
 
-[MIT]()  
+[MIT](https://choosealicense.com/licenses/mit/)  
 
----
+---  
 
+#### 🔗 LINKS ÚTEIS  
 [Blog do Power BI](https://powerbi.microsoft.com/pt-br/blog/)  
 [Por que usar o Microsoft Power BI](https://powerbi.microsoft.com/pt-br/why-power-bi/)  
 [Power BI: prós e contras da ferramenta e outras alternativas](https://blog.tecnospeed.com.br/power-bi/)  
