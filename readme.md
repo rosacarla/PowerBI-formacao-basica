@@ -50,7 +50,7 @@ Exemplo de funcionalidades disponibilizadas para criação de painel.
 	<img src="https://github.com/rosacarla/PowerBI-formacao-basica/blob/main/images/painel-inicio.jpg" width="750">
 </p>
 
-Exemplo de painel criado com análises rápidas ou [insights automáticos](https://github.com/rosacarla/PowerBI-formacao-basica/blob/main/docs/Power%20BI-insights.pdf) do Power BI.  
+Exemplos de paineis criados com [análises rápidas](https://github.com/rosacarla/PowerBI-formacao-basica/blob/main/docs/Insights%20Pedidos%20-%20Power%20BI.pdf) ou [insights automáticos](https://github.com/rosacarla/PowerBI-formacao-basica/blob/main/docs/Power%20BI-insights.pdf) do Power BI.  
 
 ☑️ **Faça perguntas aos seus dados**  
 Funcionalidade baseada na tecnologia chamada "linguagem natural", conhecida pela sigla "PNL". Com ela, podem ser feitas perguntas sobre seus dados através de uma frase. Exemplo de Utilização do [P&R](https://github.com/rosacarla/PowerBI-formacao-basica/blob/main/images/perguntas-painel.jpg).  
@@ -59,7 +59,7 @@ Funcionalidade baseada na tecnologia chamada "linguagem natural", conhecida pela
 Exemplos de compartilhamento de:  
 - relatório com [link na web](https://screencast-o-matic.com/watch/c3h0VtVrkTr).  
 - painel por [e-mail](https://github.com/rosacarla/PowerBI-formacao-basica/blob/main/images/email-vendas-resumidas.jpg).  
-- visual por [QR Code](https://github.com/rosacarla/PowerBI-formacao-basica/blob/main/images/Vendas%20Final-qrcode.jpg) para visualizar com câmera de celular.
+- visual por QR Code ([1](https://github.com/rosacarla/PowerBI-formacao-basica/blob/main/images/Vendas%20Final-qrcode.jpg), [2](https://github.com/rosacarla/PowerBI-formacao-basica/blob/main/images/Estado%20-%20qrcode.jpg)) para visualizar com câmera de celular que direciona para leitura no app Power BI.
 
 ☑️ **Usando Power BI para celulares**  
 Exemplo de edição da visualização de painel com layout para celular.  
