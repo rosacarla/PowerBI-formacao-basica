@@ -61,7 +61,7 @@ Funcionalidade baseada na tecnologia chamada "linguagem natural", conhecida pela
 Exemplos de compartilhamento de:  
 - relatório com [link na web](https://screencast-o-matic.com/watch/c3h0VtVrkTr).  
 - painel por [e-mail](https://github.com/rosacarla/PowerBI-formacao-basica/blob/main/images/email-vendas-resumidas.jpg).  
-- visual por QR Code ([1](https://github.com/rosacarla/PowerBI-formacao-basica/blob/main/images/Vendas%20Final-qrcode.jpg), [2](https://github.com/rosacarla/PowerBI-formacao-basica/blob/main/images/Estado%20-%20qrcode.jpg)) para visualizar com câmera de celular que direciona para leitura no app Power BI.
+- visual por QR Code ([1](https://github.com/rosacarla/PowerBI-formacao-basica/blob/main/images/Vendas%20Final-qrcode.jpg), [2](https://github.com/rosacarla/PowerBI-formacao-basica/blob/main/images/Estado%20-%20qrcode.jpg)) para visualização com câmera de celular que direciona leitura no app Power BI, desde que esteja logado no app instalado em seu celular. 
 
 ☑️ **Usando Power BI para celulares**  
 Exemplo de edição da visualização de painel com layout para celular.  
