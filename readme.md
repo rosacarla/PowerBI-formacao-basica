@@ -10,7 +10,7 @@ _Power BI Formação Básica_, realizado na plataforma LinkedIn Learning.
 ☑️ **Introdução**  
 Necessário preparar equipamento para atender os seguintes requisitos técnicos:  
 - Memória RAM: 1,5 GB ou superior (8 GB mínimo)  
-- CPU (porcessador): 1 GHz ou superior (x64 ou x32-bit)  
+- CPU (processador): 1 GHz ou superior (x64 ou x32-bit)  
 - Resolução: 1400x900px ou 1600x900px  
 - Resolução para texto: 100% ou menos
 - Sistema operacional: Windows 8 ou superior ou Windows Server 2008 R2 ou superior  
